@@ -12,5 +12,5 @@ const App = () => {
 
   return <ModelEditor params={params} />;
 };
-
+``
 export default App
